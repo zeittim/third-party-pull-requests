@@ -1,3 +1,6 @@
 {
-  "type": "static"
+  "type": "static",
+  "env": {
+    "API_KEY": "@api-key"
+  }
 }
